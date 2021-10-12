@@ -573,4 +573,19 @@ ul li:hover {
   border-radius: 2%;
   background: chartreuse;
 }
+/* -------bottom---------- */
+.bottom{
+  width: 100%;
+  height: 240px;
+  background-color: chartreuse;
+}
+.bottomSwriper{
+  width: 100%;
+  height: 120px;
+  background-color: chocolate;
+}
+.footer{
+  width: 100%;
+  height: 120px;
+}
 </style>
